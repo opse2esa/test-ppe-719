@@ -10,7 +10,6 @@ metadata:
   nextTutorialTitle: Numbers in C#
   displayType: two-column
   interactive: csharp
-cd: 1
 items:
 - durationInMinutes: 1
   content: |
