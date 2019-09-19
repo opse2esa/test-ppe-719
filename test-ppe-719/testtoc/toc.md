@@ -315,7 +315,7 @@
 
 ### Application enhancements
 #### [Overview](dynamics365-business-central/application-enhancements.md)
-#### [[Power Platform][Supportability] Add support into PowerApp connector for header & Lines](dynamics365-business-central/[power-platform][supportability]-add-support-into-powerapp-connector-header-lines.md)
+#### [\[Power Platform\]\[Supportability\] Add support into PowerApp connector for header & Lines](dynamics365-business-central/[power-platform][supportability]-add-support-into-powerapp-connector-header-lines.md)
 #### [Improved Insights into Permissions](dynamics365-business-central/improved-insights-into-permissions.md)
 ### Application lifecycle management
 #### [Overview](dynamics365-business-central/application-lifecycle-management.md)
