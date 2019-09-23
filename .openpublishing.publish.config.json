@@ -29,7 +29,7 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "test-v3-dependency",
+      "path_to_root": "test-ppe-719/test-v3-dependency",
       "url": "https://github.com/v-pegao/test2Provision",
       "branch": "master",
       "branch_mapping": {},
