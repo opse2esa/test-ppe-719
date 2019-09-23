@@ -35,7 +35,7 @@
       "url": "https://github.com/v-pegao/test2Provision",
       "branch": "master",
       "branch_mapping": {},
-      "build_files": true
+      "include_in_build": true
     }
   ],
   "branch_target_mapping": {},
