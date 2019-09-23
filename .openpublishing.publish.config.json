@@ -2,7 +2,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "test-ppe-719",
-      "build_source_folder": ".",
+      "build_source_folder": "test-ppe-719",
       "build_output_subfolder": "test-ppe-719",
       "locale": "en-us",
       "monikers": [],
@@ -29,13 +29,6 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
-    },
-    {
-      "path_to_root": "test-v3-dependency",
-      "url": "https://github.com/v-pegao/test2Provision",
-      "branch": "master",
-      "branch_mapping": {},
-      "include_in_build": true
     }
   ],
   "branch_target_mapping": {},
