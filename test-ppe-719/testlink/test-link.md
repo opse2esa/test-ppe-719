@@ -1,3 +1,8 @@
-The sample also references the Office UI Fabric Core styles in [`index.html`](./public/index.html).
+[a](a-.md)
 
-and be taken to [package editor](https://docs.microsoft.com/en-us/windows/msix/packaging-tool/package-editor)
+[as](a-.md)
+
+
+[v](v-.md#L22)
+
+[v](v-.md#L25)
