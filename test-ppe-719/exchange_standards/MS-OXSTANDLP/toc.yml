@@ -1,0 +1,36 @@
+- name: Open Specifications
+  href: /openspecs/
+  expanded: true
+  items:
+    - name: Standards Support
+      href: /openspecs/standards_support/MS-STDSUPLP/17a32be7-10b3-4025-bea4-133a66b4c689
+      expanded: true
+      items:
+      - name: "Exchange Server and Outlook Standards Support"
+        href: de2c147d-83de-49ac-bd3e-815e2dd691fd.md
+        items:
+        - name: "Preview Documents"
+          href: 86e4669a-f777-4750-bdc6-c22363747588.md
+        - name: "Standards Support Documents"
+          href: 3c8dd289-b401-430c-a3a0-dec8028b5918.md
+          items:
+          - name: "[MS-STANOICAL]: Outlook iCalendar Standards Support Version 2"
+            href: ../MS-STANOICAL/
+            homepage: ../MS-STANOICAL/84f556c8-fbaa-4642-a59e-6e9961d9e8bc.md
+          - name: "[MS-STANOIMAP]: Outlook Internet Message Access Protocol (IMAP) Standards Support"
+            href: ../MS-STANOIMAP/
+            homepage: ../MS-STANOIMAP/9e26aea5-bb27-40d2-be9a-c82878c7d567.md
+          - name: "[MS-STANOPOP3]: Outlook Post Office Protocol Version 3 (POP3) Standards Support"
+            href: ../MS-STANOPOP3/
+            homepage: ../MS-STANOPOP3/bc2e3aad-09a6-4ceb-9bf7-ab1f088378b9.md
+          - name: "[MS-STANXICAL]: Exchange iCalendar Standards Support Version 2"
+            href: ../MS-STANXICAL/
+            homepage: ../MS-STANXICAL/9e9b142a-8e07-4e5b-b851-f4874ca44c57.md
+          - name: "[MS-STANXIMAP]: Exchange Internet Message Access Protocol (IMAP) Standards Support"
+            href: ../MS-STANXIMAP/
+            homepage: ../MS-STANXIMAP/7513f9b5-501b-4f96-9fd8-0fdb3432d1e7.md
+          - name: "[MS-STANXPOP3]: Exchange Post Office Protocol Version 3 (POP3) Standards Support"
+            href: ../MS-STANXPOP3/
+            homepage: ../MS-STANXPOP3/9a2907ee-0e99-494f-89ed-377e11f923af.md
+        - name: "Archive Documents"
+          href: 534c09a7-036c-4e37-b37e-ea63d03ffa05.md
