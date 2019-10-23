@@ -12,7 +12,7 @@
         "Conceptual": "Content",
         "TestData": "Content"
       },
-      "build_entry_point": "docs",
+      "build_entry_point": "docs.ps1",
       "template_folder": "_themes"
     }
   ],
