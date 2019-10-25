@@ -3,4 +3,4 @@ Normal one
 ![image title1](./invalid.png)
 
 clickable one:
-[![image title2](./invalid.png)]("the page link")
+[![image title2](./invalid.png)](./invalid.png)
