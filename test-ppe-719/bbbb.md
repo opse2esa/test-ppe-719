@@ -1,7 +1,3 @@
----
-title: testing triple-colon block
----
-
 # testing triple-colon-block
 
 :::image type="complex" source="./images/sap-hana-large-instances.png" alt-text="SAP HANA architecture using Azure Large Instances":::
