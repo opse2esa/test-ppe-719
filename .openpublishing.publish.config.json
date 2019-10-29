@@ -29,13 +29,6 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
-    },
-    {
-      "path_to_root": "test-ppe-719/common",
-      "url": "https://github.com/v-pegao/test2Provision",
-      "branch": "master",
-      "branch_mapping": {},
-      "include_in_build": true
     }
   ],
   "branch_target_mapping": {},
