@@ -1,5 +1,5 @@
 ---
-helpviewer_keywords: 's'
+helpviewer_keywords: 
 ---
 
 a
