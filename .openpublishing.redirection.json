@@ -1,2 +1,9 @@
 
-{"redirections":[{"source_path":null,"redirect_url":null,"redirect_document_id":false}]}
+{
+  "redirections":[
+    {
+      "source_path":null,
+      "redirect_url":null,
+      "redirect_document_id":false
+    }]
+}
