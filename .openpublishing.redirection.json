@@ -1,9 +1,9 @@
-
 {
-  "redirections":[
-    {
-      "source_path": "",
-      "redirect_url": "",
-      "redirect_document_id": false
-    }]
+    "redirections": [
+	    {
+		    "source_path": "test-ppe-719/testBookmark/test-redirect-external-bookmark.md",
+			  "redirect_url": "testRedirect/test-redirect",
+			  "redirect_document_id": false
+		}
+	]
 }
