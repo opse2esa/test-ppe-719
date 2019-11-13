@@ -1,3 +1,3 @@
 # ref toc
 
-[check toc](toc.md)
+[check toc](TOC.yml)
