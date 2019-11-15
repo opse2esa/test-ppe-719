@@ -1,9 +1,5 @@
 {
     "redirections": [
-	    {
-		    "source_path": "test-ppe-719/a.md",
-			"redirect_url": "testRedirect/test-redirect",
-			"redirect_document_id": false
-		}
+	
 	]
 }
