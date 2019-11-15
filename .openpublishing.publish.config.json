@@ -30,6 +30,21 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
+  "branch_target_mapping": {
+    "master": [
+
+      "Publish"
+
+    ],
+    "111519-v2": [
+
+      "Publish"
+
+    ],
+    "111519-01-v2": [
+
+      "Publish"
+
+    ]},
   "need_generate_pdf_url_template": false
 }
