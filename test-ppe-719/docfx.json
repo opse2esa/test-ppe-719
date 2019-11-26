@@ -43,7 +43,7 @@
     },
     "fileMetadata": {
         "titleOverwriteH1": {
-            "test-v3-dependency/test-v3-dependency.md": "overwrite title"
+            "_test-v3-dependency/test-v3-dependency.md": "overwrite title"
         }
     },
     "template": [],
