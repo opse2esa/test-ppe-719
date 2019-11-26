@@ -41,7 +41,11 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+        "titleOverwriteH1": {
+            "test-v3-dependency/test-v3-dependency.md": "overwrite title"
+        }
+    },
     "template": [],
     "dest": "test-ppe-719",
     "markdownEngineName": "markdig"
