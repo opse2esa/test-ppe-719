@@ -16,6 +16,10 @@ sections:
     text: ''
   - type: paragraph
     text: 'ABCABC'
+  - type: paragraph
+    text: '<p></p>'
+  - type: paragraph
+    text: '<p>DFGDFG</p>'
   - type: list
     style: unordered
     items:
