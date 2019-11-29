@@ -12,6 +12,8 @@ abstract:
 sections:
 - title: Reference
   items:
+ - type: paragraph
+    text: 
   - type: paragraph
     text: ''
   - type: paragraph
