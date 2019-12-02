@@ -10,9 +10,9 @@ uid: test-moniker-range/test-moniker-range
 
 Check version below.
 
-::: moniker range=">= aspnetcore-3.0"
+::: moniker range="= aspnetcore-3.0"
 
-Here is content of moniker range `>= aspmetcore-3.0`
+Here is content of moniker range `= aspmetcore-3.0`
 
 ::: moniker-end
 
