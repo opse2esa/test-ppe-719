@@ -1,5 +1,5 @@
 ---
-uid: b
+uid: bb
 ---
 
-use uid b
+use uid bb
