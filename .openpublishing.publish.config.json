@@ -6,7 +6,7 @@
       "build_output_subfolder": "test-ppe-719",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": [],
+      "moniker_ranges": [ ">= aspnetcore-1.0" ],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
