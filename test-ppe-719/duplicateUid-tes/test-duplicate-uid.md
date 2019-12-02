@@ -1,5 +1,5 @@
 ---
-uid: c
+uid: c1
 ---
 
-# dupe c
+# rename dupe uid c as c1
