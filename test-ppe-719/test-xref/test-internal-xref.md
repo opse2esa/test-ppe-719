@@ -5,4 +5,4 @@ Go to article [`test-moniker-range.md`](https://github.com/v-pegao/test-ppe-719/
 - Go to [aspnetcore-3.0](xref:test-moniker-range/test-moniker-range?view=aspnetcore-3.0)
 - Go to aspnetcore-2.2: <xref:test-moniker-range/test-moniker-range?view=aspnetcore-2.2>
 - Go to <a href="xref:test-moniker-range/test-moniker-range?view=aspnetcore-2.2">aspnetcore-2.2 with html format</a>
-- Go to aspnetcore-2.1: @xref:test-moniker-range/test-moniker-range?view=aspnetcore-2.1
+- Go to aspnetcore-2.1: @test-moniker-range/test-moniker-range?view=aspnetcore-2.1
