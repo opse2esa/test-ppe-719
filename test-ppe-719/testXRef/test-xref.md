@@ -3,7 +3,7 @@
 
 ## cross-reference within repository
 
-All usages:
+Reference UIDs in same docset:
 
 1 Inline Xref exists: <xref:b> and Inline Xref not exists: <xref:non-existence>
 
