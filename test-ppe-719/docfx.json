@@ -37,6 +37,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
+    "xrefService": [
+      "https://xref.docs.microsoft.com/query?uid={uid}"
+    ],
     "globalMetadata": {
       "breadcrumb_path": "/test-ppe-719/breadcrumb/toc.json",
       "extendBreadcrumb": true,
