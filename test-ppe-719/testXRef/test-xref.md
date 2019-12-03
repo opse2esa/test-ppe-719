@@ -16,7 +16,7 @@ Reference UIDs in same docset:
 
 ## cross-reference in other repository with query tag ppe-provision-test
 
-All usages with [referenced file](https://github.com/v-pegao/ppe-provision-test/blob/master/ppe-provision-test/index.md):
+Reference UIDs from different repository: [referenced file](https://github.com/v-pegao/ppe-provision-test/blob/master/ppe-provision-test/index.md):
 
 1 Inline Xref exists: <xref:cross reference index.md in repository ppe-provision-test> and Inline Xref not exists: <xref:non-existence>
 
