@@ -16,12 +16,12 @@ Reference UIDs in same docset:
 
 ## cross-reference in other repository with query tag ppe-provision-test
 
-Reference UIDs from different repository: [referenced file](https://github.com/v-pegao/ppe-provision-test/blob/master/ppe-provision-test/index.md):
+Reference UIDs from different repository: [referenced file](https://github.com/v-pegao/ppe-provision-test/blob/master/ppe-provision-test/another.md):
 
-1 Inline Xref exists: <xref:cross reference index.md in repository ppe-provision-test> and Inline Xref not exists: <xref:non-existence>
+1 Inline Xref exists: <xref:cross-repo-xref> and Inline Xref not exists: <xref:non-existence>
 
-2 [Inline Xref exists](xref:"cross reference index.md in repository ppe-provision-test") and [Inline Xref not exists](xref:non-existence)
+2 [Inline Xref exists](xref:cross-repo-xref) and [Inline Xref not exists](xref:non-existence)
 
-3 Inline Xref exists: @"cross reference index.md in repository ppe-provision-test" and Inline Xref not exists: @"non-existence"
+3 Inline Xref exists: @cross-repo-xref and Inline Xref not exists: @"non-existence"
 
-4 Inline Xref exists: <xref href="cross reference index.md in repository ppe-provision-test"/> and Inline Xref not exists: <xref href="non-existence"/> 
+4 Inline Xref exists: <xref href="cross-repo-xref"/> and Inline Xref not exists: <xref href="non-existence"/> 
