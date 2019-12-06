@@ -17,7 +17,7 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ],
-        "version": "03805ae9"
+        "version": "sc-sm-1711"
       }
     ],
     "resource": [
@@ -50,8 +50,8 @@
     "dest": "test-ppe-719",
     "markdownEngineName": "markdig",
     "versions": {
-      "03805ae9": {
-        "dest": "03805ae9-dest"
+      "sc-sm-1711": {
+        "dest": "sc-sm-1711-dest"
       }
     }
   }
