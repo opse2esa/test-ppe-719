@@ -3,23 +3,7 @@
     "content": [
        {
         "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ],
-        "version": "version2"
-      },
-      {
-        "files": [
+          "**/*.md",
           "**/*.yml"
         ],
         "exclude": [
