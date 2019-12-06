@@ -1,9 +1,25 @@
 {
   "build": {
     "content": [
+       {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ],
+        "version": "version2"
+      },
       {
         "files": [
-          "**/*.md",
           "**/*.yml"
         ],
         "exclude": [
@@ -17,7 +33,7 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ],
-        "group": "group1"
+        "version": "version1"
       }
     ],
     "resource": [
@@ -49,10 +65,12 @@
     "template": [],
     "dest": "test-ppe-719",
     "markdownEngineName": "markdig",
-    "groups": {
-      "group1": {
-        "dest": "group1-dest",
-        "moniker_range": ">= aspnetcore-1.0"
+    "versions": {
+      "version1": {
+        "dest": "version1-dest"
+      },
+      "version2": {
+        "dest": "version2-dest"
       }
     }
   }
