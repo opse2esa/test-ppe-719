@@ -17,7 +17,7 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ],
-        "version": "version1"
+        "version": "03805ae9"
       }
     ],
     "resource": [
@@ -50,11 +50,8 @@
     "dest": "test-ppe-719",
     "markdownEngineName": "markdig",
     "versions": {
-      "version1": {
-        "dest": "version1-dest"
-      },
-      "version2": {
-        "dest": "version2-dest"
+      "03805ae9": {
+        "dest": "03805ae9-dest"
       }
     }
   }
