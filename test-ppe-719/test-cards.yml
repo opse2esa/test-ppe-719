@@ -1,42 +1,74 @@
 ### YamlMime:YamlDocument
 documentType: LandingData
-title: Microsoft Flow Guided Learning
+title: Visual Studio Mobile Center
 metadata:
-  title: Microsoft Flow Guided Learning
-  meta.description: from-team
-  services: from-team
-  author:   
-  manager: from-team
-  layout: LandingPage
-  ms.assetid: 
-  ms.service: from-team
-  ms.tgt_pltfrm: from-team
-  ms.devlang: from-team
+  description: Set up your app to distribute to your beta testers on every commit, see live user data, and test your app on 1000’s of real devices.
+  author: github-username
+  ms.author: apexprodleads
+  ms.date: 05-09-2017
   ms.topic: landing-page
-  ms.date: 09/15/2017
-  ms.author: from-team
 abstract:
-  description: Start your learning journey through Microsoft Flow with this sequenced collection of courses, and understand the extensive and powerful capabilities of Flow.
+  description: <a href="https://mobile.azure.com/">Mobile Center</a> brings together multiple services, commonly used by mobile developers, into a single, integrated product. You can build, test, distribute, and monitor your mobile apps and easily add backend cloud services to scale your app to millions of users on demand.
 sections:
-- items:
-  - type: list
-    style: cards
-    className: cardsM
-    columns: 3
+- title: Services
+  items:
+  - type: grid
+    style: columns
+    className: column50
     items:
-    - html: <p><a href="get-started#step-1">Understand Microsoft Flow basics</a> - 14 min</p><p><a href="get-started#step-2">Create a flow from a template</a> - 9 min</p><p><a href="get-started#step-3">Use the Microsoft Flow mobile app</a> - 8 min</p>
-      image:
-        src: https://docs.microsoft.com/media/common/i_get-started.svg
-      title: Get Started
-    - html: <p><a href="build-flows#step-1">Create a button flow</a> - 11 min</p><p><a href="build-flows#step-2">Get notifications</a> - 6 min</p><p><a href="build-flows#step-3">Copy files</a> - 4 min</p><p><a href="build-flows#step-4">Collect data</a> - 5 min</p><p><a href="build-flows#step-5">Post tweets from a flow</a> - 15 min</p><p><a href="build-flows#step-6">Create scheduled flows</a> - 9 min</p><p><a href="build-flows#step-7">Convert and store documents</a> - 14 min</p>
-      image: 
-        src: https://docs.microsoft.com/media/common/i_build.svg
-      title: Build Flows
-    - html: <p><a href="work-with-approvals#step-1">Create an approval request</a> - 4 min</p><p><a href="work-with-approvals#step-2">Process an approval request</a> - 7 min</p>
-      image: 
-        src: https://docs.microsoft.com/media/common/i_tasks.svg
-      title: Work with approvals
-    - html: <p><a href="administer-flows#step-1">Use environments to manage flows</a> - 8 min</p><p><a href="administer-flows#step-2">Use data loss prevention policies</a> - 6 min</p>
-      image: 
-        src: https://docs.microsoft.com/media/common/i_management.svg
-      title: Administer flows
+    - type: list
+      style: cards
+      className: cardsB
+      items:
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/build.svg
+          href: https://docs.microsoft.com/
+        title: Build
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/test.svg
+          href: https://docs.microsoft.com/
+        title: Test
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/distribute.svg
+          href: https://docs.microsoft.com/
+        title: Distribute
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/tables.svg
+          href: https://docs.microsoft.com/
+        title: Tables
+    - type: list
+      style: cards
+      className: cardsB
+      items:
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/crashes.svg
+          href: https://docs.microsoft.com/
+        title: Crashes
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/analytics.svg
+          href: https://docs.microsoft.com/
+        title: Analytics
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/push-notification.svg
+          href: https://docs.microsoft.com/
+        title: Push Notifications
+      - href: https://docs.microsoft.com/
+        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
+        image:
+          src: /media/landing/mobile-center/identity.svg
+          href: https://docs.microsoft.com/
+        title: Identity
