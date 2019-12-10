@@ -1,5 +1,5 @@
 ---
-title: title without version
+Title: title without version
 layout: LandingPage
 ---
 
