@@ -22,6 +22,7 @@ sections:
   - type: list
     style: cards
     className: cardsF
+    columns: 2
     items:
     - html: <p><a href="get-started#step-1">Understand Microsoft Flow basics</a> - 14 min</p><p><a href="get-started#step-2">Create a flow from a template</a> - 9 min</p><p><a href="get-started#step-3">Use the Microsoft Flow mobile app</a> - 8 min</p>
       image:
