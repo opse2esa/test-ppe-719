@@ -132,8 +132,7 @@ ms.author: v-lingwu
                                                             <a href="./app/java-trace-logs.md">Trace logging</a><br>
                                                             <a href="./app/java-agent.md">Agent config for dependency tracking</a><br>
                                                             <a href="./app/api-custom-events-metrics.md">Custom events and metrics</a><br>
-                                                            <a href="/azure-monitor/app/configuration-with-applicationinsights-config#channel-parameters-java
-">Config .xml</a><br>
+                                                            <a href="/azure-monitor/app/configuration-with-applicationinsights-config#channel-parameters-java">Config .xml</a><br>
                                                             <a href="https://github.com/Microsoft/ApplicationInsights-Java">Open Source Java SDK GitHub repo</a>
 														</p>
                                                         <br><br>
