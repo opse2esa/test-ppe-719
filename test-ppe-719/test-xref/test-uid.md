@@ -1,5 +1,5 @@
 ---
-UID: NF:ntw.EtwEventUnregister
+uid: NF:ntw.EtwEventUnregister
 title: EtwEventUnregister function
 author: windows-sdk-content
 description: Unregisters an event.
