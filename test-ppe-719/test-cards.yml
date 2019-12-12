@@ -1,74 +1,71 @@
 ### YamlMime:YamlDocument
 documentType: LandingData
-title: Visual Studio Mobile Center
+title:   Azure Security Center Documentation
 metadata:
-  description: Set up your app to distribute to your beta testers on every commit, see live user data, and test your app on 1000’s of real devices.
-  author: github-username
-  ms.author: apexprodleads
-  ms.date: 05-09-2017
+  title: Azure Security Center Documentation - Tutorials, API Reference | Microsoft Doc
+  meta.description: Azure Security Center provides unified security management and advanced threat protection across hybrid cloud workloads. Learn how to get started with Security Center, apply security policies across your workloads, limit your exposure to threats, and detect and respond to attacks with our quickstarts and tutorials..
+  services: security-center
+  author: cmcclister
+  manager: carolz
+  ms.service: security-center
+  ms.tgt_pltfrm: na
+  ms.devlang: na
   ms.topic: landing-page
+  ms.date: 07/26/18
+  ms.author: cmcclister
 abstract:
-  description: <a href="https://mobile.azure.com/">Mobile Center</a> brings together multiple services, commonly used by mobile developers, into a single, integrated product. You can build, test, distribute, and monitor your mobile apps and easily add backend cloud services to scale your app to millions of users on demand.
+  description: Azure Security Center provides unified security management and advanced threat protection across hybrid cloud workloads. Learn how to get started with Security Center, apply security policies across your workloads, limit your exposure to threats, and detect and respond to attacks with our quickstarts and tutorials.
 sections:
-- title: Services
+- title: 5-Minute Quickstarts
+  items: 
+  - type: paragraph
+    text: Learn how to onboard your VMs and computers to Security Center and connect your security solutions.
+  - type: list
+    style: icon48
+    items: 
+    - image: 
+        src: /media/common/i_subscription.svg
+      text: Onboard Azure subscriptions
+      href: /security-center/security-center-get-started
+    - image: 
+        src: /media/logos/logo_Windows.svg
+      text: Onboard Windows computers
+      href: /security-center/quick-onboard-windows-computer
+    - image: 
+        src: /media/logos/logo_linux.svg
+      text: Onboard Linux computers
+      href: /security-center/quick-onboard-linux-computer
+    - image: 
+        src: /media/common/i_multi-connect.svg
+      text: Connect security solutions
+      href: /security-center/quick-security-solutions
+- title: Step-by-Step Tutorials
   items:
-  - type: grid
-    style: columns
-    className: column50
+  - type: paragraph
+    text: Learn how to define security policies, protect your resources against malicious activity, and respond to security alerts and incidents.
+  - type: list
+    style: ordered
     items:
-    - type: list
-      style: cards
-      className: cardsB
-      items:
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/build.svg
-          href: https://docs.microsoft.com/
-        title: Build
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/test.svg
-          href: https://docs.microsoft.com/
-        title: Test
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/distribute.svg
-          href: https://docs.microsoft.com/
-        title: Distribute
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/tables.svg
-          href: https://docs.microsoft.com/
-        title: Tables
-    - type: list
-      style: cards
-      className: cardsB
-      items:
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/crashes.svg
-          href: https://docs.microsoft.com/
-        title: Crashes
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/analytics.svg
-          href: https://docs.microsoft.com/
-        title: Analytics
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/push-notification.svg
-          href: https://docs.microsoft.com/
-        title: Push Notifications
-      - href: https://docs.microsoft.com/
-        html: Create an installable app package automatically with every commit or push. Supports GitHub, Bitbucket, and Visual Studio Team Services (VSTS).
-        image:
-          src: /media/landing/mobile-center/identity.svg
-          href: https://docs.microsoft.com/
-        title: Identity
+    - html: <a href="/security-center/tutorial-security-policy">Define and assess security policies</a>
+    - html: <a href="/security-center/tutorial-protect-resources">Protect your resources</a>
+    - html: <a href="/security-center/tutorial-security-incident">Respond to security incidents</a>
+- title: Build your skills with Microsoft Learn
+  items:
+  - type: list
+    style: cards
+    className: cardsFTitle
+    items:
+    - title:   Introduction to Security in Azure
+      href: /learn/modules/intro-to-security-in-azure/
+      image: 
+        src: /learn/achievements/intro-to-security-in-azure.svg
+        href: /learn/modules/intro-to-security-in-azure/
+  - type: paragraph
+    text: <a href="/learn/browse/?term=security">More interactive learning...</a>
+- title: Reference
+  items:
+  - type: list
+    style: cards
+    className: cardsD
+    items:
+    - html: <a href="https://docs.microsoft.com/rest/api/securitycenter/">REST API reference</a>
