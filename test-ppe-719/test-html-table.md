@@ -1,7 +1,7 @@
 # test
 
 <table><thead><tr><th>Argument</th><th>test table header</th></tr></thead>
-<tr><td>r1c1</td><td>r1c2</td></tr>
+<tr><td>r1c1</td><td>r1<br> &#39;c2&#39;</td></tr>
 <tr><td>r2c1</td><td>r2c2</td></tr>
 
 <tr>
