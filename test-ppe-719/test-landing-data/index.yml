@@ -25,3 +25,24 @@ sections:
     items:
     - html: <a href="https://github.com/dotnet/docfx">Images</a>
     - html: <a href="https://github.com/v-pegao/docfx">Marketplace for partners</a>
+- items:
+  - type: list
+    style: cards
+    className: cardsM
+    columns: 3
+    items:
+    - href: windows-10-deployment-scenarios
+      html: <p>Understand the different ways that Windows 10 can be deployed</p>
+      image:
+        src: https://docs.microsoft.com/media/common/i_deploy.svg"
+      title: Windows 10 deployment scenarios
+    - href: update
+      html: <p>Update Windows 10 in the enterprise</p>
+      image:
+        src: https://docs.microsoft.com/media/common/i_upgrade.svg
+      title: Windows as a service
+    - href: update/windows-analytics-overview
+      html: <p>Windows Analytics provides deep insights into your Windows 10 environment.</p>
+      image:
+        src: https://docs.microsoft.com/media/common/i_investigate.svg
+      title: Windows Analytics
