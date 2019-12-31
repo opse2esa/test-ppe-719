@@ -9,6 +9,11 @@
          "source_path":"Test-ppe-719/testRedirect/redirect/test-redirect-url-not-exist.md",
          "redirect_url":"/test-ppe-719/test-ppe-719/testredirect/test-redirect-url-not-exist",
          "redirect_document_id":false
+      }, 
+      { 
+         "source_path":"Test-ppe-719/testRedirect/test-non-breaking-space-in-redirect/index.md",
+         "redirect_url":"/test-ppe-719/test-ppe-719/testredirect/test-redirect",
+         "redirect_document_id":true
       }
    ]
 }
