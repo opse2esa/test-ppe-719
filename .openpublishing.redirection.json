@@ -1,9 +1,9 @@
 { 
    "redirections":[ 
       { 
-         "source_path":"Test-ppe-719/testRedirect/redirect/index.md",
-         "redirect_url":"/test-ppe-719/test-ppe-719/testredirect/test-redirect",
-         "redirect_document_id":true
+         "source_path":"Test-ppe-719/testRedirect/redirect/index.md",
+         "redirect_url":"/test-ppe-719/test-ppe-719/testredirect/test-redirect",
+         "redirect_document_id":true
       },
       { 
          "source_path":"Test-ppe-719/testRedirect/redirect/test-redirect-url-not-exist.md",
