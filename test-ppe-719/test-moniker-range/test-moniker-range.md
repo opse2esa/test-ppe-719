@@ -16,9 +16,9 @@ Here is content of moniker range `= aspmetcore-3.0`
 
 ::: moniker-end
 
-::: moniker range="= aspnetcore-2.2"
+::: moniker range="= Aspnetcore-2.2"
 
-Here is content of moniker range `= aspnetcore-2.2`
+Here is content of moniker range `= Aspnetcore-2.2`
 
 ::: moniker-end
 
