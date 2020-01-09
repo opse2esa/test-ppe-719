@@ -12,7 +12,7 @@ The <strong>@Me</strong> macro expands to the full name of the current user in a
 <td>Currently assigned to you
 </td>
 <td>
-<code>A=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code>
+<code>A=<xref href="ax" data-throw-if-not-resolved="False" data-raw-source="@ax"></xref></code>
 </td>
 </tr>
 
@@ -20,7 +20,7 @@ The <strong>@Me</strong> macro expands to the full name of the current user in a
 <td>Created by you
 </td>
 <td>
-<code>C=<xref href="b1" data-throw-if-not-resolved="False" data-raw-source="@b1"></xref></code> 
+<code>C=<xref href="ax" data-throw-if-not-resolved="False" data-raw-source="@ax"></xref></code> 
 </td>
 </tr>
 
@@ -29,7 +29,7 @@ The <strong>@Me</strong> macro expands to the full name of the current user in a
 <td>Resolved yesterday
 </td>
 <td>
-<code>&quot;Resolved Date&amp;quot;=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code> 
+<code>&quot;Resolved Date&amp;quot;=<xref href="ax" data-throw-if-not-resolved="False" data-raw-source="@ax"></xref></code> 
 </td>
 </tr>
 
@@ -37,7 +37,7 @@ The <strong>@Me</strong> macro expands to the full name of the current user in a
 <td>Modified 7 days ago
 </td>
 <td>
-<code>System.ChangedDate=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code>
+<code>System.ChangedDate=<xref href="ax" data-throw-if-not-resolved="False" data-raw-source="@ax"></xref></code>
 </td>
 </tr>
 
@@ -46,7 +46,7 @@ The <strong>@Me</strong> macro expands to the full name of the current user in a
 Created yesterday under the Phone Saver team
 </td>
 <td>
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<code>Created Date <em> = </em> <xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code><br/><code>And <em> Area Path </em> = _ FabrikamFiber\Phone Saver</code><br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<code>Created Date <em> = </em> <xref href="ax" data-throw-if-not-resolved="False" data-raw-source="@ax"></xref></code><br/><code>And <em> Area Path </em> = _ FabrikamFiber\Phone Saver</code><br/>
 </td>
 </tr>
 
