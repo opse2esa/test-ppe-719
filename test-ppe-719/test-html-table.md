@@ -1,13 +1,54 @@
 # test
 
-<table><thead><tr><th>Argument</th><th>test table header</th></tr></thead>
-<tr><td>r1c1</td><td>r1<br> &#39;c2&#39;</td></tr>
-<tr><td>r2c1</td><td>r2c2</td></tr>
+The <strong>@Me</strong> macro expands to the full name of the current user in any work item search. The <strong>@Me</strong> macro is especially useful for creating a search that you can share with other users, and it can simplify your work by reducing the number of characters you must type to specify your own user name. For a description of all macros, see [Query fields, operators, and macros, Query macros or variables](test-new-line.md). 
+
+<table width="100%">
+<tbody valign="top">
+<tr>
+<th width="50%">Filter for</th>
+<th width="50%">Type the following string</th>
+</tr>
+<tr>
+<td>Currently assigned to you
+</td>
+<td>
+<code>A=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code>
+</td>
+</tr>
+
+<tr>
+<td>Created by you
+</td>
+<td>
+<code>C=<xref href="b1" data-throw-if-not-resolved="False" data-raw-source="@b1"></xref></code> 
+</td>
+</tr>
 
 
 <tr>
-<th style="text-align: center" colspan="2">
-  <a href="https://github.com/v-pegao/test-ppe-719/tree/190918-v3-ad/test-ppe-719"  data-raw-source="[Control options](https://github.com/v-pegao/test-ppe-719/tree/190918-v3-ad/test-ppe-719)">r3 colspan 2 </a></th>
+<td>Resolved yesterday
+</td>
+<td>
+<code>&quot;Resolved Date&amp;quot;=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code> 
+</td>
 </tr>
 
-</table>
+<tr>
+<td>Modified 7 days ago
+</td>
+<td>
+<code>System.ChangedDate=<xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code>
+</td>
+</tr>
+
+<tr>
+<td>
+Created yesterday under the Phone Saver team
+</td>
+<td>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<code>Created Date <em> = </em> <xref href="c1" data-throw-if-not-resolved="False" data-raw-source="@c1"></xref></code><br/><code>And <em> Area Path </em> = _ FabrikamFiber\Phone Saver</code><br/>
+</td>
+</tr>
+
+</tbody>
+</table>  
