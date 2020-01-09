@@ -72,7 +72,7 @@ Created yesterday under the Phone Saver team
 <tbody>
 
 <tr><th>table header</th></tr>
-<tr><td><xref href="@a"><xref></td></tr>
+<tr><td><xref href="@a"></xref></td></tr>
 
 </tbody>
 </table>
