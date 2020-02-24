@@ -3,4 +3,5 @@
   items:
     - name: test toc item 1
       href: index.md
-      homepage: /test-ppe-719/test-ppe-719/test-html-table
+    - name: test encode
+      href: #~!@$&()=,;+'%.md
